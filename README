@@ -1,0 +1,23 @@
+This is a little script I which I was inspired to write by a combination of the
+xkcd s/keyboard/leopard/g script and a laptop hacking war I have with a friend.
+The script changes all instances of 'good', 'better', 'best', 'optimistic', 
+'optimism', and 'optimist' into 'bad', 'worse', 'worst', 'pessimistic', 
+'pessimism', and 'pessimist', respectively.
+
+Installation instructions:
+	To install this script, simply install the 'Greasemonkey' addon to 
+Firefox or Chrome, and simply drag and drop pessimism.user.js onto the browser.
+From hereafter, installation is intuitive.
+
+List of Supported Mappings:
+good -> bad
+better -> worse
+best -> worst
+optimistic -> pessimistic
+optimism -> pessimistic
+optimist -> pessimist
+
+Further versions will potentially expand to support more obscure words (like
+changing 'amazing' to 'awesome'), and allow for reverse mapping (good -> bad
+AND bad->good). Other spins may be released allowing for a degree of randomness
+(maybe a word gets changed only 10% of the time).
