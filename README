@@ -14,7 +14,7 @@ good -> bad
 better -> worse
 best -> worst
 optimistic -> pessimistic
-optimism -> pessimistic
+optimism -> pessimism
 optimist -> pessimist
 
 Further versions will potentially expand to support more obscure words (like
