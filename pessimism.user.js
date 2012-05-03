@@ -50,7 +50,7 @@ function pessimism(str){
         return best_subs[b] + best_subs[e] + st
     })
     
-    str = str.replace(/(o)(p)(t)(imism|imistic|imist|ional)/ig, function(match,o,p,t,end){
+    str = str.replace(/(o)(p)(t)(imism|imistic|imist)/ig, function(match,o,p,t,end){
         return optimism_subs[o] + optimism_subs[p] + optimism_subs[t] + end
     })
     
